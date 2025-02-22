@@ -42,7 +42,7 @@ Make sure you have Node.js and npm installed. If not, download Node.js.
 Install the required packages:npm install
 4. Run on : http://localhost:3000
 
-
+````
 
 ## 📸 Application Screenshots
 
