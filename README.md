@@ -26,6 +26,13 @@
 
 ---
 
+## Live Demo
+
+You can access the live deployment of this project here:
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://answer-arena.vercel.app/)
+
+
 ## 📥 **Installation and Setup Instructions**
 
 ### ✅ **1. Clone the Repository**
@@ -61,7 +68,15 @@ select: yes
 
 ![Capture06](https://github.com/user-attachments/assets/f594ab23-a864-4a3c-aa68-f96dd8a8efa2)
 
+
+
+ IndexedDB Implementation
+All quiz attempts are stored locally using IndexedDB.
+Attempt history persists even after browser refresh or closure.
+Attempts can be deleted directly from the UI without refreshing the page.
+
 ![Capture07](https://github.com/user-attachments/assets/2cde43e3-fb05-4e91-93f9-4f0c857f1c15)
+
 
 ![Capture08](https://github.com/user-attachments/assets/e1869652-9a12-49c5-b9f8-4d2a64e32abd)
 
